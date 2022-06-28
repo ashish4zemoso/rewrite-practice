@@ -1,1 +1,1 @@
-delhi, chandigar, gurugram, noida, jodhpur
+delhi, gurugram, noida, jodhpur, chandigarh
